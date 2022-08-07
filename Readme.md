@@ -1,11 +1,11 @@
 # **Description**
-## *Creation of a modern landing page for a web agency using :*
+### *Creation of a modern landing page for a web agency using :*
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Render part of website](./assets/Readme-Images/img-readme-landing-page2.png)
 
-## *Adding a scroll indicator to get back to the top of the page quickly*
+### *Adding a scroll indicator to get back to the top of the page quickly*
 
 ![Render part of website](./assets/Readme-Images/img-readme-landing-page.png)
 
