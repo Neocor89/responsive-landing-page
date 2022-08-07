@@ -10,7 +10,8 @@
 ![Render part of website](./assets/Readme-Images/img-readme-landing-page.png)
 
 # **SETUP**
-## HTML import links
+## ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?-style=for-the-badge&logo=html5&logoColor=white) import links
+
 
 Poppins - Google font import link:
 
